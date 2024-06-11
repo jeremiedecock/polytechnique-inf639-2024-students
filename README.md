@@ -2,9 +2,9 @@
 
 Copyright (c) 2019-2024 Jérémie Decock
 
-<img src="https://raw.githubusercontent.com/jeremiedecock/polytechnique-inf639-2024-students/main/logo.jpg" width="250">
+<img src="https://github.com/jeremiedecock/polytechnique-inf639-2024-students/blob/master/logo.jpg?raw=true" width="250">
 
-- Github repository for students: https://github.com/jeremiedecock/polytechnique-inf639-2024-students
+- GitHub repository for students: https://github.com/jeremiedecock/polytechnique-inf639-2024-students
 - Moodle: https://moodle.polytechnique.fr/course/view.php?id=TODO
 
 
