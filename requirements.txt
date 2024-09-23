@@ -60,6 +60,7 @@ tqdm
 aim
 moviepy      # Required by the "gym.wrappers.RecordVideo" wrapper
 optuna
+optuna-dashboard
 tensorboard
 wandb
 
