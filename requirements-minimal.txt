@@ -48,7 +48,7 @@ matplotlib
 numpy
 pandas
 pettingzoo        # For lab3 on MCTS
-# pygame          # required for the "cartpole" Gym environment but already installed with Gymnasium
+pygame            # required for the "cartpole" Gym environment but already installed with Gymnasium
 pyvirtualdisplay  # required for rendering in a headless environment
 scipy
 seaborn
