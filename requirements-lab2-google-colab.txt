@@ -19,7 +19,7 @@
 
 # Install Gymnasium with all the environments
 
-gymnasium[accept-rom-license,atari,box2d,classic-control,mujoco]~=0.29.1
+gymnasium[mujoco]~=0.29.1
 
 # Alternatively, you can install Gymnasium with specific environments only
 
@@ -47,7 +47,7 @@ stable-baselines3~=2.3.2
 # matplotlib
 # numpy
 # pandas
-pettingzoo        # For lab3 on MCTS
+# pettingzoo        # For lab3 on MCTS
 # pygame          # required for the "cartpole" Gym environment but already installed with Gymnasium
 pyvirtualdisplay  # required for rendering in a headless environment
 # scipy
